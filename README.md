@@ -1,7 +1,7 @@
-### Huadi (Justin) Wang
+### Justin Huadi Wang
 
-Hi, this is Justin 👋 I am a software engineer and AI Researcher interested in Computer Vision and Brain Decoding ~
+Hi, this is Justin 👋 I am a software engineer and PhD Researcher interested in AI4S and Crypto Applications ~
 
-✉️ Contact: hw687@cam.ac.uk
+✉️ Contact: justin.wang25@imperial.ac.uk
 
 
